@@ -1,0 +1,8 @@
+{
+  "total_records": 1567,
+  "pass_rate": 93.36311423101468,
+  "fail_rate": 6.636885768985322,
+  "avg_temperature": 56.54137843012125,
+  "avg_power": 138.95532865347798,
+  "avg_performance": 6796.3797064454375,
+  "thermal_issues": 
